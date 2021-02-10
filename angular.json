@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "appSimpleRoute"
+    }
+  },
+  "defaultProject": "appSimpleRoute",
+  "cli": {
+    "analytics": false
+  }
 }
